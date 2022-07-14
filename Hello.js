@@ -1,0 +1,1 @@
+const Intro = "Hello to the Git!"
